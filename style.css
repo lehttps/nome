@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1{
+    color:rgb(255, 255, 255);
+}
+
+span {
+    color: #22D4FD;
+    font-family: monospace;
+}
+
+body{
+    width: 488px;
+    height: 100vh;
+    box-sizing: border-box;
+    top: 200px;
+    background-color: #0000;
+    color: #F6F6F6;
+}
+
+img {
+    
+    width: 300px;
+    height: 400px;
+    left: 1030px;
+    top: 200px;
+}
+button{
+    padding: 10px;
+    font-size: 15px;
+    background-color: #22D4FD;
+    color: black;
+    border-radius: 10px;
+    border-color: transparent;
+
+}
